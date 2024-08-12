@@ -1,5 +1,12 @@
 ## eunseongjo 👋
 
+<div align=center>
+
+**_EunSeong Jo_**
+<a href="mailto:tkakfkekdk4@gmail.com">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseongjo)](https://github.com/anuraghazra/github-readme-stats)
+
  <p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
@@ -16,4 +23,6 @@
 <div align=center>
    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/jenkins-181717?style=flat&logo=jenkins&logoColor=white">
+</div>
+
 </div>
