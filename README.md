@@ -1,9 +1,8 @@
+<div align=center>
 ## 조은성 👋
 포기하지 않는 개발자</br>
 창의적으로 문제를 해결해나가는 개발자</br>
 개발을 즐기는 개발자</br>
-
-<div align=center>
 
 <a href="mailto:tkakfkekdk4@gmail.com">
 
