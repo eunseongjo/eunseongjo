@@ -1,11 +1,10 @@
 ## 조은성 👋
-포기하지 않는 개발자
-창의적으로 문제를 해결해나가는 개발자
-개발을 즐기는 개발자
+포기하지 않는 개발자</br>
+창의적으로 문제를 해결해나가는 개발자</br>
+개발을 즐기는 개발자</br>
 
 <div align=center>
 
-**_EunSeong Jo_**
 <a href="mailto:tkakfkekdk4@gmail.com">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseongjo)](https://github.com/anuraghazra/github-readme-stats)
